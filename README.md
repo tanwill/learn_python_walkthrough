@@ -1,1 +1,4 @@
-# Learn_Python_the_Hard_Way
+"Learn Python the Hard Way" Walkthrough
+======================================
+
+Working through Zed Shaw ["Learn Python the Hard Way"](http://learnpythonthehardway.org/).
